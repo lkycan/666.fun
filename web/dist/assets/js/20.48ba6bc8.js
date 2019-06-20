@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{178:function(t,e,n){"use strict";n.r(e);var s=n(2),o=Object(s.a)({},function(){var t=this.$createElement,e=this._self._c||t;return e("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[e("p",[this._v("投票收益")])])},[],!1,null,null,null);o.options.__file="README.md";e.default=o.exports}}]);
